@@ -8,6 +8,7 @@ function App() {
         <header>
           <div className="nav">
             <h3 className="logo">CataniasCreations</h3>
+            <img src={require('./hamburger.png')} alt="menu" height="30px" width="30px" />
           </div>
         </header>
 
